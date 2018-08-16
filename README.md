@@ -12,3 +12,23 @@ Languages
 - IT Italian
 - DU Dutch
 - US English
+
+Question: Why doesn't PC INSPECTOR™ clone-maxx achieve transmission rates of 3.3 GB / minute for me? 
+
+Answer: The transmission rate depends on several criteria. Our software is optimized for the following chipsets: 
+Intel 82371
+Intel 82801E
+Intel 82801E
+Intel 82801BA(M)
+Intel 82801AA,AB
+Intel 82801BA,DC 
+VIA VT8233(A,C)
+VIA VT8231 
+VIA VT8235 
+VIA VT82C68B 
+VIA VT8233 
+
+PC INSPECTOR™ clone-maxx also supports other chipsets; however, it may be that the high copying speed is not achieved with other chipsets. The data throughput of the hard drive and the cable used also play a role. PC INSPECTOR™ clone-maxx independently reduces the copying speed for hard drives with defective sectors. 
+
+Question: Why is PC INSPECTOR™ clone-maxx faster than other programs? 
+Answer: PC INSPECTOR™ clone-maxx uses command sets that utilize the full performance spectrum of your DMA chip
